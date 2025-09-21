@@ -7,8 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "test": "jest",
-    "postinstall": "npm rebuild"
+    "test": "jest"
   },
   "overrides": {
     "@rollup/rollup-linux-x64-gnu": "npm:@rollup/rollup-linux-x64-musl@*"
